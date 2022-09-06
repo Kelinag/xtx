@@ -1,4 +1,4 @@
-# eribbit-client-pc-124
+# eribbit-client-pc
 
 ## Project setup
 ```
